@@ -28,6 +28,11 @@
       }
     ]
   },
+  "Python": {
+    "Version": "3.6.13",
+    "Type": "conda",
+    "Name": null
+  },
   "Packages": {
     "Matrix": {
       "Package": "Matrix",
@@ -267,9 +272,5 @@
       "Repository": "RSPM",
       "Hash": "2826c5d9efb0a88f657c7a679c7106db"
     }
-  },
-  "Python": {
-    "Version": "3.8.5",
-    "Type": "virtualenv"
   }
 }
